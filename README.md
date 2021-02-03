@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name | LastName | Email     | Phone number
+------- | ---------------- | ---------- | ---------:
+Abderrahman  | Zorai | Zoraiabderrahman@gmail.com | +32488692372
+
