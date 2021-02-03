@@ -8,17 +8,12 @@ Here are some ideas to get you started:
   1. Python
   1. Javascript
   
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
-- 📫 How to reach me: ...
-[Email :](Zoraiabderrahman@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ HTML CSS Project : 
+[Associative project] https://abderzorai.github.io/medecinmonde/
 
-Name | LastName | Email     | Phone number
+
+Name | LastName | Email 📫    | Phone number
 ------- | ---------------- | ---------- | ---------:
 Abderrahman  | Zorai | Zoraiabderrahman@gmail.com | +32488692372
 
