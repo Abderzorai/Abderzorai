@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Soon]
 - 🌱 I’m currently learning ...
   1. Python 🐍
   1. Javascript
