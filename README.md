@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Soon]
 - 🌱 I’m currently learning ...
-  1. Python 🐍
+  1. Python 🐍  [training](https://github.com/Abderzorai/PythonTraining)
   1. Javascript
   
  
