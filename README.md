@@ -34,4 +34,4 @@ Name | LastName | Email 📫    | Phone number
 ------- | ---------------- | ---------- | ---------:
 Abderrahman  | Zorai | Zoraiabderrahman@gmail.com | +32488692372
 
-Linkedin <i class="fab fa-linkedin"></i> [GitHub Logo](https://f.hellowork.com/blogdumoderateur/2014/08/linkedin-logo-e1407144392549.png)
+:link:
