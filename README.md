@@ -34,3 +34,6 @@ Name | LastName | Email 📫    | Phone number
 ------- | ---------------- | ---------- | ---------:
 Abderrahman  | Zorai | Zoraiabderrahman@gmail.com | +32488692372
 
+
+Linkedin : https://www.linkedin.com/in/abderrahmanzorai/
+
