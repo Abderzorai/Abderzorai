@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Soon]
 
 - 🌱 I’m currently learning ...
-  1. Python 🐍  [training](https://github.com/Abderzorai/PythonTraining)
+  1. Python 🐍  [training Exercice](https://github.com/Abderzorai/PythonTraining)
   1. Javascript
   
  
