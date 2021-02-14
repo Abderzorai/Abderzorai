@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Soon]
 
+ Shooter game : [shooter-Repo](https://github.com/Abderzorai/PythonGame)
+
 - 🌱 I’m currently learning ...
   1. Python 🐍  [training Exercice](https://github.com/Abderzorai/PythonTraining)
   1. Javascript
