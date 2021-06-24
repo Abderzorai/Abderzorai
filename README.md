@@ -22,7 +22,7 @@
  1. [Associative projet](https://abderzorai.github.io/medecinmonde/)
  1. [Restaurant](https://abderzorai.github.io/restaurant-css-framework/)
  1. [TimbernersLee](https://abderzorai.github.io/timbernerslee/)
- 1. [C.V](https://abderzorai.github.io/mycv/)
+
 
 -⚡⚡ Javascript
  1. [Allociné](https://abderzorai.github.io/frontend-AllezCine/)
